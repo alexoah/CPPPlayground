@@ -10,8 +10,8 @@
  *	}
  *
  */
-#include <iostream>	// needed to work properly
-using namespace std;	// needed to work properly
+#include <iostream>	// needed this to work properly
+using namespace std;	// needed this to work properly
 
 int main() {
 	cout << "Hello World!";
